@@ -1,0 +1,6 @@
+download the contest train file in train folder containing all the subfolders as the trainingdata folder
+
+
+test folder contains the test images
+
+

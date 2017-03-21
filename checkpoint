@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/suraj/Kaggle_Fish_Contest/model_alexnet-2600"
+all_model_checkpoint_paths: "/home/suraj/Kaggle_Fish_Contest/model_alexnet-2600"
